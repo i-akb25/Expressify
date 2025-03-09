@@ -39,5 +39,5 @@ npm run dev
 
 ---
 
-Made with ❤️ by [Anurag](https://github.com/i-akb25)
+Made with ❤️ by [Anurag](https://ace-akb.vercel.app/)
 
