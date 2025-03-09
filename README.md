@@ -1,5 +1,5 @@
 
-### 📸 Expressify - A Modern Social Media App
+# 📸 Expressify - A Modern Social Media App
 
 Expressify is a sleek and modern social media application built using **ReactJS** and **Redux**. Designed with an **Instagram-inspired UI**, it allows users to create, edit, and engage with posts in a vibrant and user-friendly environment.
 
