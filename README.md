@@ -33,30 +33,9 @@ npm run dev
 - 📱 **Responsive Design** - Optimized for mobile and desktop users.
 - 🎨 **Modern UI/UX** - Beautiful gradient styles and intuitive navigation.
 
-## 🛠️ Tech Stack
-- **Frontend**: ReactJS, Redux, CSS
-- **State Management**: Redux
-- **Routing**: React Router
-
-## 🎯 Installation & Setup
-To run this project locally, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/i-akb25/Expressify.git
-
-# Navigate to the project folder
-cd Expressify
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
 
 ## 🌟 Live Demo
-🔗 [Expressify](https://github.com/i-akb25/Expressify/)
+🔗 [Expressify](https://expressify-eight.vercel.app/)
 
 ---
 
